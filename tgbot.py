@@ -3,7 +3,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, ReplyKeybo
 from aiogram.utils import executor
 import logging
 
-API_TOKEN = '8190290096:AAEeH2EaEUJqBMgiJrdWHUWVmAVkUc2A8hA'
+API_TOKEN = ''
 CHANNEL_USERNAME = '@wonderloveyou'
 
 bot = Bot(token=API_TOKEN)
